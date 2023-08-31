@@ -1,0 +1,9 @@
+# Sample Config
+# ================================================================
+nodes:
+  - name: config1
+    description: Cloud controller node
+    
+  - name: kvm_compute
+    description: Cloud KVM compute node
+    
