@@ -6,4 +6,7 @@ nodes:
     
   - name: kvm_compute
     description: Cloud KVM compute node
+
+  - name: drake_compute
+    description: Cloud drake compute node
     
