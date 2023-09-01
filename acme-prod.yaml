@@ -9,4 +9,7 @@ nodes:
 
   - name: drake_compute
     description: Cloud drake compute node
+
+  - name: drake1_compute
+    description: Cloud drake compute node
     
